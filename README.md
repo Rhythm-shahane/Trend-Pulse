@@ -2,6 +2,10 @@
 
 This repository implements LSTM is for the purpose of stock prediction​.
 
+To Run it effectively, with more krips understanding:
+
+[Google Colab Link:]( 
+
 
 ### - Team Information:
     - We are the students of Second Year E&CS Department.
