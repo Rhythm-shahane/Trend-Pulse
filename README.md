@@ -88,7 +88,8 @@ The dataset data is divided into training and validation sets as follows:
 
 # **🚀Results**
 
-## Here are The Closing Values of Each Day are plotted here:
+## Here are The Entered Dataset Values :
+![Alt Text](https://i.pinimg.com/736x/1f/36/8b/1f368b46552afe13cf3f64dc6b3abfde.jpg)
 
 
 
