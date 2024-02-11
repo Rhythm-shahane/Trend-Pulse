@@ -16,11 +16,11 @@ Devansh Shahane (Team Lead)
 - [Email ID: shahane.rhythm@gmail.com](mailto:shahane.rhythm@gmail.com)
 - [Linkedin ID: Devansh Shahane](https://www.linkedin.com/in/devansh-shahane/)
 
-Prathamesh Sharma (Brainy Guy)
+Prathamesh Sharma 
 - [Email ID: prathameshsharma27@gmail.com](mailto:prathameshsharma27@gmail.com)
 - [Linkedin ID: Prathamesh Sharma](www.linkedin.com/in/prathamesh-sharma/)
 
-Nirbhay Tiwari (The Fintech Guy)
+Nirbhay Tiwari 
 -  [Email ID: nirbhay.tcet26@gmail.com](mailto:prathameshsharma27@gmail.com)
 -  [Linkedin ID: Nirbhay Tiwari](https://www.linkedin.com/in/nirbhay-tiwari/)
 
