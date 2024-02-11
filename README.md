@@ -1,10 +1,15 @@
-# Tesla Stocks By TREND PULSE
+# TREND PULSE
 
 This repository implements LSTM is for the purpose of stock prediction​.
 
-To Run it effectively, with more krips understanding:
+We have Deployed Over Model:
 
-[Google Colab Link:]( 
+Please check it over here:
+
+
+
+To Run it effectively, with more krips understanding:
+[Google Colab Link:](https://colab.research.google.com/drive/1B5wsSNTY5YGUqBKkAFUgLJjG5TFu6qUG?usp=sharing)
 
 
 ### - Team Information:
