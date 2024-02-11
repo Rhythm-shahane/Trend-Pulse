@@ -28,46 +28,6 @@ Nirbhay Tiwari (The Fintech Guy)
  
  ## **Motto: " We Together Can Bring A Change "**
 
- # LSTM-Based Stock Prediction Model
-
-## Project Overview
-
-This project is dedicated to forecasting stock market prices using a deep learning model based on Long Short-Term Memory (LSTM) networks. By analyzing historical stock data, this model aims to predict future price movements, providing valuable insights for investors and traders looking to make informed decisions.
-
-## Features
-
-- **Data Preprocessing**: Includes cleaning and normalization of historical stock price data.
-- **LSTM Model**: Utilizes a deep learning approach with LSTM layers to learn from the temporal dependencies of stock price movements.
-- **Prediction**: Generates future stock prices based on historical data.
-- **Evaluation**: Assesses the model's performance using metrics like RMSE (Root Mean Squared Error).
-- **Visualization**: Plots historical data against predicted values for easy comparison.
-
-## Technology Stack
-
-- Python 3.x
-- TensorFlow/Keras
-- Pandas for data manipulation
-- Matplotlib for data visualization
-- Yahoo Finance API for fetching historical stock data
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have Python 3.x installed on your system. You will also need to install several Python libraries, including TensorFlow, Keras, Pandas, and Matplotlib. You can install these packages using pip:
-
-```bash
-pip install tensorflow keras pandas matplotlib
-``` 
-
-
-## Installation
-### Clone this repository to your local machine:
-
-```bash
-https://github.com/Rhythm-shahane/Trend-Pulse.git
-```
-
 # 📈 **Trend Pulse**
 ### **Predicting Stocks with ML**
 
