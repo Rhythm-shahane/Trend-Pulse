@@ -43,66 +43,35 @@ We have Deployed Over Model:
 
 To Run it effectively, with more krips understanding:
 [Google Colab Link:](https://colab.research.google.com/drive/1B5wsSNTY5YGUqBKkAFUgLJjG5TFu6qUG?usp=sharing)
-## 🏗️ **How It's Built**
 
-Trend Pulse is built with these core frameworks and modules:
+# **📊Dataset Description**
 
-- **Streamlit** - To create the web app UI and interactivity 
-- **LSTM** - To build the Long Short Term Memory model
-- **Plotly** - To create interactive financial charts
+The dataset provided appears to be historical stock market data for Tesla, Inc. (TSLA). 
+Here's a summary of its structure and key statistics:
 
-The app workflow is:
+## The Dataset Contains:
 
-1. User feeds the CSV file.
-2. Historical data is fetched with CSV file.
-3. LSTM model is trained on the data 
-4. Model makes multi-day price forecasts
-5. Results are plotted with Plotly
+- Date: The date of the stock data, formatted as MM/DD/YYYY.
+- Open: The price of the stock at the opening of the trading day.
+- High: The highest price of the stock during the trading day.
+- Low: The lowest price of the stock during the trading day.
+- Close: The closing price of the stock for the trading day.
+- Volume: The number of shares traded during the trading day.
+- Adj Close: The adjusted closing price, accounting for any corporate actions such as dividends, stock splits, etc.
 
-## 🎯 **Key Features**
+## Data Anaylsis:
 
-- **Financial charts** - Interactive historical and forecast charts
-- **LSTM forecasting** - Make statistically robust predictions
-- **Backtesting** - Evaluate model performance
-- **Responsive design** - Works on all devices
+### - There are 1,692 entries, indicating stock data for 1,692 trading days.
+### - The dataset starts from June 29, 2010, with the first few entries showing significant volatility in the stock price and trading volume.
+### - The Volume of shares traded also varies greatly, from as low as 118,500 to as high as 37,163,900, with a mean trading volume of around 4,270,741 shares.
 
-## 🚀 **Getting Started**
+# **🔼Dataset Split Info**
 
-### **Local Installation**
+The dataset data is divided into training and validation sets as follows:
 
-1. Clone the repo
-
-```bash
-git clone https://github.com/Rhythm-shahane/Trend-Pulse.git
-```
-
-2. Install requirements
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Change directory
-```bash
-cd app.py
-```
-
-4. Run the app
-
-```bash
-streamlit run app.py
-```
-
-## 📈 **Future Roadmap**
-
-Some potential features for future releases:
-
-- **More advanced forecasting models like Transformer**
-- **Quantitative trading strategies**
-- **Portfolio optimization and tracking**
-- **Additional fundamental data**
-- **User account system**
-- **Real Time Data Fetching**
+- **Training the model by some old data from the dataset.**
+- **Validating Data on the previous closing values from the dataset.**
+- **Predicting Data by using the trained model.**
 
 ## **⚖️ Disclaimer**
 **This is not financial advice! Use forecast data to inform your own investment research. No guarantee of trading performance.**
