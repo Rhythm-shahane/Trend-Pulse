@@ -116,8 +116,8 @@ def predict_price(model, scaler, df):
 
 # Main Streamlit app
 def main():
-    st.title('Tesla Stock Price Prediction')
-    st.write('Upload a CSV file containing the Tesla stock data.')
+    st.title('Stock Price Prediction')
+    st.write('Upload a CSV file containing the stock data.')
 
     # File uploader for dataset upload
     uploaded_file = st.file_uploader("Upload CSV file", type=['csv'])
