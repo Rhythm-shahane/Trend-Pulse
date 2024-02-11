@@ -97,7 +97,22 @@ The dataset data is divided into training and validation sets as follows:
 ## Here is the prediction for the Closing Price of the next day:
 ![Alt Text](https://i.pinimg.com/736x/c7/b5/82/c7b582a691493d4fde4efd4361c03336.jpg)
 
+# 🏗️ **Dependences**
 
+Trend Pulse is built with these core frameworks and modules:
+
+- **Streamlit** - To create the web app UI and interactivity 
+- **LSTM** - To build the Long Short Term Memory model
+- **Plotly** - To create interactive financial charts
+
+# ⛩️ **Workflow**
+The app workflow is:
+
+1. User feeds the CSV file.
+2. Historical data is fetched with CSV file.
+3. LSTM model is trained on the data 
+4. Model makes multi-day price forecasts
+5. Results are plotted with Plotly
 
 
 # **▶Video Explanation Of The Deployed Web APP**
