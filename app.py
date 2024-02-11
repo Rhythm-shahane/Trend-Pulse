@@ -20,6 +20,7 @@ def train_model(df):
     df['Date'] = pd.to_datetime(df['Date'])
     df.set_index('Date', inplace=True)
 
+    st.subheader('Closing Price of the stock')
     # Plotting the closing price history
     st.line_chart(df['Close'])
 
@@ -47,7 +48,7 @@ def train_model(df):
     # Reshape the data into the shape accepted by the LSTM
     x_train = np.reshape(x_train, (x_train.shape[0], x_train.shape[1], 1))
 
-        #Buil the LSTM model
+        #Build the LSTM model
     model =Sequential()
     model.add(LSTM(64,return_sequences=True, input_shape=(x_train.shape[1],1)))
     model.add(LSTM(64, return_sequences= False))
@@ -134,6 +135,7 @@ def main():
             # Create testing data sets and make predictions
             create_test_and_predict(model, scaler, df, training_data_len)
 
+            st.subheader('Based On the Prevous 60 days Data.')
             # Predict next day's closing price
             pred_price = predict_price(model, scaler, df)
             st.write("Predicted Next Day's Closing Price: ", pred_price)
