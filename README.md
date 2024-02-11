@@ -4,7 +4,7 @@ This repository implements LSTM is for the purpose of stock prediction​.
 
 We have Deployed Over Model:
 
-Please check it over here:
+[Please check it over here: trend-pulse.streamlit.app](https://trend-pulse.streamlit.app/#tesla-stock-price-prediction)
 
 
 
