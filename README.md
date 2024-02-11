@@ -73,6 +73,9 @@ The dataset data is divided into training and validation sets as follows:
 - **Validating Data on the previous closing values from the dataset.**
 - **Predicting Data by using the trained model.**
   
+# **▶Video Explanation Of The Deployed Web APP**
+
+[![Watch the video](https://i.pinimg.com/736x/b4/cc/1e/b4cc1e3c683ccc93084879ead9f69c89.jpg)](https://www.youtube.com/watch?v=8ZsUzq01A3w)
 
 ## **⚖️ Disclaimer**
 **This is not financial advice! Use forecast data to inform your own investment research. No guarantee of trading performance.**
