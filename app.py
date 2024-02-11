@@ -136,7 +136,7 @@ def main():
             # Create testing data sets and make predictions
             create_test_and_predict(model, scaler, df, training_data_len)
 
-            st.subheader('Based On the Prevous 60 days Data.')
+            st.subheader('Based On the Previous 60 days Data.')
             # Predict next day's closing price
             pred_price = predict_price(model, scaler, df)
             st.write("Predicted Next Day's Closing Price: ", pred_price)
