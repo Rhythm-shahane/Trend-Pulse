@@ -72,6 +72,7 @@ The dataset data is divided into training and validation sets as follows:
 - **Training the model by some old data from the dataset.**
 - **Validating Data on the previous closing values from the dataset.**
 - **Predicting Data by using the trained model.**
+  
 
 ## **⚖️ Disclaimer**
 **This is not financial advice! Use forecast data to inform your own investment research. No guarantee of trading performance.**
