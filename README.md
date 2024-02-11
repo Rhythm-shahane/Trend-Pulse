@@ -72,7 +72,26 @@ The dataset data is divided into training and validation sets as follows:
 - **Training the model by some old data from the dataset.**
 - **Validating Data on the previous closing values from the dataset.**
 - **Predicting Data by using the trained model.**
-  
+
+# **💡Approach**
+
+### 1. First The Model fetch Dataset File (with an ext of .csv)
+### 2. Secondly the Model understands the Data Injection By Kaggle
+### 3. Then the data is cleaned and then trained
+### 4. Training model on the closing values of each day from the dataset file.
+### 5. The Lib like Numpy manipulates the array, along side Lib Panda Transforms and Visualises the Data.
+### 6. The Lib Matplot, it plots the data, along with plotty for more reactive graphs.
+### 7. Using Keras, Sequential, Dense & the most prominent LSTM model, we train the model layer by layer.
+### 8. At the last the Output has been trained on the older data from the CSV file.
+### 9. The Trained model gives the predicted the plotting with the valid values, 
+### 10. Hence generated the final output of the next day closing value on the basis of previous 60 days.
+
+# **🚀Results**
+
+## Here are The Closing Values of Each Day are plotted here:
+
+
+
 # **▶Video Explanation Of The Deployed Web APP**
 
 [![Watch the video](https://i.pinimg.com/736x/b4/cc/1e/b4cc1e3c683ccc93084879ead9f69c89.jpg)](https://www.youtube.com/watch?v=8ZsUzq01A3w)
