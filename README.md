@@ -35,14 +35,13 @@ Nirbhay Tiwari
 # **👓 Quick OverView**
 
 
-We have Deployed Over Model:
+## **We have Deployed Over Model:**
 
-[Please check it over here: 📈TREND PULSE ](https://trend-pulse.streamlit.app/#tesla-stock-price-prediction)
+### - **Please check it over here:**
+### - **[📈TREND PULSE ](https://trend-pulse.streamlit.app/#tesla-stock-price-prediction)**
 
-
-
-To Run it effectively, with more krips understanding:
-[Google Colab Link:](https://colab.research.google.com/drive/1B5wsSNTY5YGUqBKkAFUgLJjG5TFu6qUG?usp=sharing)
+### - **To Run it effectively, with more krips understanding:**
+### - [Run On Google Colab](https://colab.research.google.com/drive/1B5wsSNTY5YGUqBKkAFUgLJjG5TFu6qUG?usp=sharing)
 
 # **📊Dataset Description**
 
