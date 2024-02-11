@@ -2,16 +2,6 @@
 
 This repository implements LSTM is for the purpose of stock prediction​.
 
-We have Deployed Over Model:
-
-[Please check it over here: 📈TREND PULSE ](https://trend-pulse.streamlit.app/#tesla-stock-price-prediction)
-
-
-
-To Run it effectively, with more krips understanding:
-[Google Colab Link:](https://colab.research.google.com/drive/1B5wsSNTY5YGUqBKkAFUgLJjG5TFu6qUG?usp=sharing)
-
-
 ### - Team Information:
     - We are the students of Second Year E&CS Department.
     - Group L-13
@@ -42,9 +32,20 @@ Nirbhay Tiwari (The Fintech Guy)
 
 **Trend Pulse is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
 
+# ** Quick OverView **
+
+
+We have Deployed Over Model:
+
+[Please check it over here: 📈TREND PULSE ](https://trend-pulse.streamlit.app/#tesla-stock-price-prediction)
+
+
+
+To Run it effectively, with more krips understanding:
+[Google Colab Link:](https://colab.research.google.com/drive/1B5wsSNTY5YGUqBKkAFUgLJjG5TFu6qUG?usp=sharing)
 ## 🏗️ **How It's Built**
 
-Stockastic is built with these core frameworks and modules:
+Trend Pulse is built with these core frameworks and modules:
 
 - **Streamlit** - To create the web app UI and interactivity 
 - **LSTM** - To build the Long Short Term Memory model
