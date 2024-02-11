@@ -96,6 +96,7 @@ def create_test_and_predict(model, scaler, df, training_data_len):
     valid = data[training_data_len:]
     valid['Predictions'] = predictions
 
+    st.subheader('Graph Of Prediction')
     fig = px.line()
     fig.add_scatter(x=train.index, y=train['Close'], mode='lines', name='Train', line=dict(width=3.5))
     fig.add_scatter(x=valid.index, y=valid['Close'], mode='lines', name='Valid', line=dict(width=3.5))
