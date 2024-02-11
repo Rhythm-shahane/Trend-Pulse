@@ -91,6 +91,13 @@ The dataset data is divided into training and validation sets as follows:
 ## Here are The Entered Dataset Values :
 ![Alt Text](https://i.pinimg.com/736x/1f/36/8b/1f368b46552afe13cf3f64dc6b3abfde.jpg)
 
+## Here is the Final Result Graph:
+![Alt Text](https://i.pinimg.com/736x/fe/e3/08/fee30839ce62e9f6f9d88a6a7fc2facc.jpg)
+
+## Here is the prediction for the Closing Price of the next day:
+![Alt Text](https://i.pinimg.com/736x/c7/b5/82/c7b582a691493d4fde4efd4361c03336.jpg)
+
+
 
 
 # **▶Video Explanation Of The Deployed Web APP**
