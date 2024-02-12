@@ -56,7 +56,7 @@ Here's a summary of its structure and key statistics:
 ### - The dataset starts from June 29, 2010, with the first few entries showing significant volatility in the stock price and trading volume.
 ### - The Volume of shares traded also varies greatly, from as low as 118,500 to as high as 37,163,900, with a mean trading volume of around 4,270,741 shares.
 
-## **🔼Dataset Split Info**
+## Dataset Split Info
 The dataset is divided into training and validation sets as follows:
 - **Training the model by some old data from the dataset.**
 - **Validating data on the previous closing values from the dataset.**
