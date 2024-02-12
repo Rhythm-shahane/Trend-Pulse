@@ -101,7 +101,8 @@ The app workflow is:
 
 # ➼ **Accuracy**
 ## We Use Root Mean Square Deviation:
-### Here is the result : ![Alt Text](https://i.pinimg.com/736x/63/18/af/6318af6de91da69856b4e33c0380c724.jpg)
+### Here is the result : 
+![Alt Text](https://i.pinimg.com/736x/63/18/af/6318af6de91da69856b4e33c0380c724.jpg)
 
 # **▶Video Explanation Of The Deployed Web APP**
 ### Click On The Image to play the Video. : [![Watch the video](https://i.pinimg.com/736x/b4/cc/1e/b4cc1e3c683ccc93084879ead9f69c89.jpg)](https://www.youtube.com/watch?v=8ZsUzq01A3w)
