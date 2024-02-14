@@ -4,7 +4,7 @@ st.set_page_config(
     page_title="Stock Prediction App",
     page_icon="😎",
 )
-streamlit run Main.py
+
 st.markdown(
     """# 📈 **Stockastic**
 ### **Predicting Stocks with ML**
