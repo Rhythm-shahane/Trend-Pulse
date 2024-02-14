@@ -9,7 +9,7 @@ st.markdown(
     """# 📈 **Trend Pulse**
 ### **Predicting Stocks with ML**
 
-**Stockastic is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
+**Trend Pulse is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
 
 ## 🏗️ **How It's Built**
 
@@ -18,8 +18,6 @@ Trend Pulse is built with these core frameworks and modules:
 - **Streamlit** - To create the web app UI and interactivity 
 - **LSTM** - To build the Long Short Term Memory model
 - **Plotly** - To create interactive financial charts
-- **Keras** - To Train the Model layer by layer.
-- **Tensorflow** - To Primarily Build & Train LSTM Neural Network model.
 
 The app workflow is:
 
@@ -74,8 +72,7 @@ Some potential features for future releases:
 - **User account system**
 - **Real Time Data Fetching**
 
-
-## ⚖️ **Disclaimer**
-This is not financial advice! Use forecast data to inform your own investment research. No guarantee of trading performance.
-
-
+## **⚖️ Disclaimer**
+**This is not financial advice! Use forecast data to inform your own investment research. No guarantee of trading performance.**
+"""
+)
