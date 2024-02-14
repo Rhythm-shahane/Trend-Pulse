@@ -18,6 +18,8 @@ Trend Pulse is built with these core frameworks and modules:
 - **Streamlit** - To create the web app UI and interactivity 
 - **LSTM** - To build the Long Short Term Memory model
 - **Plotly** - To create interactive financial charts
+- **Keras** - To Train the Model layer by layer.
+- **Tensorflow** - To Primarily Build & Train LSTM Neural Network model.
 
 The app workflow is:
 
@@ -74,5 +76,3 @@ Some potential features for future releases:
 
 ## **⚖️ Disclaimer**
 **This is not financial advice! Use forecast data to inform your own investment research. No guarantee of trading performance.**
-"""
-)
