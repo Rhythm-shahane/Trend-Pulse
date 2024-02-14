@@ -7,9 +7,40 @@ st.set_page_config(
 
 background_image_style = """
 <style>
-body {
-background-image: url("https://unsplash.com/photos/woman-wearing-grey-shirt-hJ5uMIRNg5k");
+/* Adds a background image to the full page */
+body:before {
+content: '';
+position: fixed;
+left: 0;
+right: 0;
+z-index: -1;
+display: block;
+background-image: url('https://unsplash.com/photos/woman-wearing-grey-shirt-hJ5uMIRNg5kE');
 background-size: cover;
+width: 100%;
+height: 100%;
+opacity: 0.5; /* Lower the opacity to ensure text readability */
+}
+
+/* Additional styling to improve text readability against the background */
+.css-18e3th9 {
+background-color: rgba(255,255,255,0.8) !important;
+border-radius: 10px;
+padding: 20px;
+}
+
+.stButton>button {
+color: white !important;
+border: 1px solid #4CAF50 !important;
+background-color: #4CAF50 !important;
+border-radius: 20px !important;
+padding: 10px 24px !important;
+margin: 10px 0 !important;
+cursor: pointer !important;
+}
+
+.stButton>button:hover {
+background-color: #45a049 !important;
 }
 </style>
 """
