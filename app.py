@@ -1,12 +1,12 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Stock Prediction App",
+    page_title="Trend Pulse",
     page_icon="😎",
 )
 
 st.markdown(
-    """# 📈 **Stockastic**
+    """# 📈 **Trend Pulse**
 ### **Predicting Stocks with ML**
 
 **Stockastic is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
