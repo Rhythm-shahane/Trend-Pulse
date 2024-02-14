@@ -7,6 +7,11 @@ from keras.layers import Dense, LSTM
 import math
 import plotly.express as px
 
+st.set_page_config(
+    page_title="Stock Price Prediction",
+    page_icon="📈",
+)
+
 # Function to load the dataset
 def load_dataset(uploaded_file):
     if uploaded_file is not None:
