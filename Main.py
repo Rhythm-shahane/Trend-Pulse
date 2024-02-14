@@ -5,6 +5,18 @@ st.set_page_config(
     page_icon="😎",
 )
 
+background_image_style = """
+<style>
+body {
+background-image: url("https://unsplash.com/photos/woman-wearing-grey-shirt-hJ5uMIRNg5k");
+background-size: cover;
+}
+</style>
+"""
+
+st.markdown(background_image_style, unsafe_allow_html=True)
+
+
 st.markdown(
     """# 📈 **Trend Pulse**
 ### **Predicting Stocks with ML**
