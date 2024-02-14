@@ -74,5 +74,7 @@ Some potential features for future releases:
 - **User account system**
 - **Real Time Data Fetching**
 
-## **⚖️ Disclaimer**
-**This is not financial advice! Use forecast data to inform your own investment research. No guarantee of trading performance.**
+"""
+## ⚖️ **Disclaimer**
+This is not financial advice! Use forecast data to inform your own investment research. No guarantee of trading performance.
+"""
