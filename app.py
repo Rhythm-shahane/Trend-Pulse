@@ -15,7 +15,7 @@ left: 0;
 right: 0;
 z-index: -1;
 display: block;
-background-image: url('URL_OF_YOUR_IMAGE');
+background-image: url('https://unsplash.com/photos/woman-wearing-grey-shirt-hJ5uMIRNg5kE');
 background-size: cover;
 width: 100%;
 height: 100%;
