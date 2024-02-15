@@ -13,7 +13,11 @@ Trend Pulse is built with these core frameworks and modules:
 - **Streamlit** - To create the web app UI and interactivity 
 - **LSTM** - To build the Long Short Term Memory model
 - **Plotly** - To create interactive financial charts
-The app workflow is:
+- **Keras** - To Train the model layer by layer.
+- **Tensorflow** - To link the layers with the model.
+
+### The app workflow is:
+
 1. User feeds the CSV file.
 2. Historical data is fetched with CSV file.
 3. LSTM model is trained on the data 
