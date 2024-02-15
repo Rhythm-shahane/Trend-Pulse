@@ -11,7 +11,7 @@ st.markdown(
     background-color: #FFFDD0;
     }
     </style>
-    """",
+    """,
     unsafe_allow_html = TRUE
     )
 background_image_style = """
