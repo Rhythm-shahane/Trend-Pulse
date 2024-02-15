@@ -3,9 +3,6 @@ st.set_page_config(
     page_title="Trend Pulse",
     page_icon="📈",
 )
-
-with st.sidebar:
-    st.[Main]
     
 st.markdown(
     """# 📈 **Trend Pulse**
