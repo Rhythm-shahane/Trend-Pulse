@@ -4,7 +4,9 @@ st.set_page_config(
     page_icon="📈",
 )
 
-
+with st.sidebar:
+    st.[Main]
+    
 st.markdown(
     """# 📈 **Trend Pulse**
 ### **Predicting Stocks with ML**
