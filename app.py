@@ -4,7 +4,16 @@ st.set_page_config(
     page_title="Trend Pulse",
     page_icon="📈",
 )
-
+st.markdown(
+    """
+    <style>
+    body{
+    background-color: #FFFDD0;
+    }
+    </style>
+    """",
+    unsafe_allow_html = TRUE
+    )
 background_image_style = """
 <style>
 /* Adds a background image to the full page */
