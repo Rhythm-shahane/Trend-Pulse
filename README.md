@@ -37,6 +37,7 @@ Nirbhay Tiwari
 ## **Model Deployment**
 ### - **Please check it over here: [📈TREND PULSE ](https://trend-pulse.streamlit.app/#tesla-stock-price-prediction)**
 ### - **To Run it effectively, with more crisp understanding: [Run On Google Colab](https://colab.research.google.com/github/Rhythm-shahane/Trend-Pulse/blob/main/Google_Colab.ipynb)**
+### - **A Easier Presentation, has been linked here: [A Quickie](https://tome.app/rhythms-space-org/trend-pulse-navigating-tomorrows-markets-with-lstm-intelligence-clsknglyp08j6mu62chcpjx1a)**
 
 # **📊Dataset Description**
 The dataset provided is the historical stock market data of Tesla, Inc. (TSLA). 
