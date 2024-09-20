@@ -1,6 +1,6 @@
 ## 🏗️ **How It's Built**
 
-Trend Pulse is built with these core frameworks and modules:
+Stock Prediction  is built with these core frameworks and modules:
 
 - **Streamlit** - To create the web app UI and interactivity 
 - **LSTM** - To build the Long Short Term Memory model
@@ -30,7 +30,7 @@ The app workflow is:
 1. Clone the repo
 
 ```bash
-git clone https://github.com/Rhythm-shahane/Trend-Pulse.git
+git clone 
 ```
 
 2. Install requirements

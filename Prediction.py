@@ -2,7 +2,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Trend Pulse",
+    page_title="Stock Prediction Model",
     page_icon="🏆",
 )
 
@@ -50,14 +50,14 @@ st.markdown(background_image_style, unsafe_allow_html=True)
 
 
 st.markdown(
-    """# 📈 **Trend Pulse**
+    """# 📈 **Stock Prediction Model**
 ### **Predicting Stocks with ML**
 
-**Trend Pulse is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
+**Stock Prediction Model is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
 
 ## 🏗️ **How It's Built**
 
-Trend Pulse is built with these core frameworks and modules:
+Stock Prediction Model is built with these core frameworks and modules:
 
 - **Streamlit** - To create the web app UI and interactivity 
 - **LSTM** - To build the Long Short Term Memory model
@@ -87,7 +87,7 @@ The app workflow is:
 1. Clone the repo
 
 ```bash
-git clone https://github.com/Rhythm-shahane/Trend-Pulse.git
+git clone 
 ```
 
 2. Install requirements
