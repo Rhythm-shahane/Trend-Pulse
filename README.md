@@ -1,16 +1,10 @@
-# 📈**TREND PULSE**
+# 📈**Stock Prediction Model**
 
 This repository implements LSTM is for the purpose of stock prediction​.
 
 ### - Team Information:
-    - We are the students of Second Year E&CS Department.
-    - Group L-13
-    - Details have been linked below the image.
-
-
-
-
-![ALT Devansh Shahane](https://i.pinimg.com/474x/c4/08/26/c408266d4330863f5e0803668750dd59.jpg)
+    
+![ALT Shubham Srivastava](https://i.pinimg.com/474x/c4/08/26/c408266d4330863f5e0803668750dd59.jpg)
 
 Devansh Shahane (Team Lead)
 - [Email ID: shahane.rhythm@gmail.com](mailto:shahane.rhythm@gmail.com)
@@ -25,17 +19,17 @@ Nirbhay Tiwari
 -  [Linkedin ID: Nirbhay Tiwari](https://www.linkedin.com/in/nirbhay-tiwari/)
 
  
- ## **Motto: " We Together Can Bring A Change "**
+ ## **Motto: " WE Got You Covered "**
 
-# 📈 **Trend Pulse**
+# 📈 **Stock Prediction Model**
 ### **Predicting Stocks with ML**
 
-**Trend Pulse is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
+**Stock Prediction Model is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
 
 # **👓 Quick OverView**
 
 ## **Model Deployment**
-### - **Please check it over here: [📈TREND PULSE ](https://trend-pulse.streamlit.app/#tesla-stock-price-prediction)**
+### - **Please check it over here: [📈Stock Prediction Model ](https://trend-pulse.streamlit.app/#tesla-stock-price-prediction)**
 ### - **To Run it effectively, with more crisp understanding: [Run On Google Colab](https://colab.research.google.com/github/Rhythm-shahane/Trend-Pulse/blob/main/Google_Colab.ipynb)**
 ### - **A Easier Presentation, has been linked here: [A Quickie](https://tome.app/rhythms-space-org/trend-pulse-navigating-tomorrows-markets-with-lstm-intelligence-clsknglyp08j6mu62chcpjx1a)**
 
