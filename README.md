@@ -104,5 +104,6 @@ The app workflow is:
 
 ## **⚖️ Disclaimer**
 **This is not financial advice! Use forecast data to inform your own investment research. No guarantee of trading performance.**
+**This platforms is a tool to guide the user, on the basis of the sample data of a certain time frame.**
 
 
